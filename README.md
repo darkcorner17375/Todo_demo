@@ -43,6 +43,4 @@ url:```https://darkcorner17375.github.io/Todo_demo/```
 
 3.刪除功能（delete box）
 
-
-
-<img src="./result/todo.png" />
+<img src="./result/Todo.png" />
