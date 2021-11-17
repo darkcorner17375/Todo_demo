@@ -38,6 +38,7 @@ url:```https://darkcorner17375.github.io/Todo_demo/```
 <img src="./result/list-function.png" />
 
 1.確認功能（checked box）
+    目前只顯示尚未有儲存功能
 
 2.編輯功能（edit box）
 
